@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app-pocemons/static/css/main.edca0294.chunk.css",
+    "main.js": "/app-pocemons/static/js/main.b8661cbc.chunk.js",
+    "main.js.map": "/app-pocemons/static/js/main.b8661cbc.chunk.js.map",
+    "runtime-main.js": "/app-pocemons/static/js/runtime-main.3a8e89ed.js",
+    "runtime-main.js.map": "/app-pocemons/static/js/runtime-main.3a8e89ed.js.map",
+    "static/js/2.4f560d40.chunk.js": "/app-pocemons/static/js/2.4f560d40.chunk.js",
+    "static/js/2.4f560d40.chunk.js.map": "/app-pocemons/static/js/2.4f560d40.chunk.js.map",
+    "static/js/3.6cdbc65a.chunk.js": "/app-pocemons/static/js/3.6cdbc65a.chunk.js",
+    "static/js/3.6cdbc65a.chunk.js.map": "/app-pocemons/static/js/3.6cdbc65a.chunk.js.map",
+    "index.html": "/app-pocemons/index.html",
+    "static/css/main.edca0294.chunk.css.map": "/app-pocemons/static/css/main.edca0294.chunk.css.map",
+    "static/js/2.4f560d40.chunk.js.LICENSE.txt": "/app-pocemons/static/js/2.4f560d40.chunk.js.LICENSE.txt",
+    "static/media/arrow.7b96767d.png": "/app-pocemons/static/media/arrow.7b96767d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a8e89ed.js",
+    "static/js/2.4f560d40.chunk.js",
+    "static/css/main.edca0294.chunk.css",
+    "static/js/main.b8661cbc.chunk.js"
+  ]
+}
